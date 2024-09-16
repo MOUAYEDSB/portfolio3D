@@ -27,7 +27,7 @@ const Projects = () => {
           description="3D Portfolio! Dive into a world where imagination meets innovation. From stunning visualizations and realistic renderings to captivating animations."
         />
         <ProjectCard
-          src="/project-3.png"
+          src="/projects-3.png"
           title="3D portfolio website"
           description="3D Portfolio! Dive into a world where imagination meets innovation. From stunning visualizations and realistic renderings to captivating animations."
         />
